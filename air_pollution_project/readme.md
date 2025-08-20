@@ -1,6 +1,6 @@
 -----
 
-### ⚙️ Data Engineering & Data Analysis Project: Car Emissions & Environmental Impact
+### ⚙️ Data Engineering & Data Analysis Project: The Environmental Impact of Car and Factory Emissions — and Potential Solutions.
 
 This project showcases a complete data pipeline, from raw data ingestion and transformation (data engineering) to advanced visualization and insight generation (data analysis). The goal is to analyze the environmental impact of urban factors like car populations and industrial activity.
 
